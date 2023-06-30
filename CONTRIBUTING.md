@@ -13,3 +13,6 @@ $ go build -o fcv cmd/fcv/main.go
 ```
 
 ### Testing
+```
+$ go test ./...
+```
